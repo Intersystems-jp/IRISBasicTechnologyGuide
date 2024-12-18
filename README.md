@@ -1,6 +1,6 @@
 # IRISテクノロジーガイド
 
- IRIS SQLの基礎を学ぶステップガイド
+ IRISの基礎を学ぶステップガイド
 
 - ObjectScript操作ガイド
 - Object操作ガイド
